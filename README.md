@@ -1,2 +1,1 @@
-Nama : Maulana Zhahran \n
-NIM  : H1D021070
+Nama : Maulana Zhahran
